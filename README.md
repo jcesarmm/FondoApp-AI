@@ -17,7 +17,7 @@
 - Administracion de Usuarios - Done.
 - Creacion cuentas de ahorro - Done.
 
-# Comming up...
+# Coming up...
 
 - Administracion parametros generales fondo de ahorro.
 - Adminsitracion cuentas de ahorro.
