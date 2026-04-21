@@ -21,7 +21,6 @@ export class User {
 
     @Column({ default: false })
     isAdmin!: boolean;
-
     /**
      * Validates the user data before persisting.
      * Throws descriptive errors if validation fails.
